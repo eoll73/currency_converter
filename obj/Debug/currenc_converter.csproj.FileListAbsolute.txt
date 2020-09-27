@@ -1,0 +1,10 @@
+E:\Папа\Тестовые датаАрт\currenc_converter\bin\Debug\currenc_converter.exe.config
+E:\Папа\Тестовые датаАрт\currenc_converter\bin\Debug\currenc_converter.exe
+E:\Папа\Тестовые датаАрт\currenc_converter\bin\Debug\currenc_converter.pdb
+E:\Папа\Тестовые датаАрт\currenc_converter\obj\Debug\currenc_converter.csprojAssemblyReference.cache
+E:\Папа\Тестовые датаАрт\currenc_converter\obj\Debug\currenc_converter.Form1.resources
+E:\Папа\Тестовые датаАрт\currenc_converter\obj\Debug\currenc_converter.Properties.Resources.resources
+E:\Папа\Тестовые датаАрт\currenc_converter\obj\Debug\currenc_converter.csproj.GenerateResource.cache
+E:\Папа\Тестовые датаАрт\currenc_converter\obj\Debug\currenc_converter.csproj.CoreCompileInputs.cache
+E:\Папа\Тестовые датаАрт\currenc_converter\obj\Debug\currenc_converter.exe
+E:\Папа\Тестовые датаАрт\currenc_converter\obj\Debug\currenc_converter.pdb
